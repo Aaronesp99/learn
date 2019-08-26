@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+}
+#frmSubmit{
+    color: #465185;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+#btnGuardar{
+    border: 1px solid #51799f;
+    background: #fff;
+    color: #51799f;
+    font-weight: 600;
+    border-radius: 2px;
+    font-size: 16px;
+    padding: 6px 13px;
+    margin: 15px 10px;
+    box-shadow: 1px 1px 6px #8e8e8e;
+}
+
+#btnGuardar:hover{
+    background: #51799f;
+    color: #fff;
+    border: 1px solid #51799f;
+}
+#btnGuardar:focus{
+    outline: none;
+}
+
+.form-control{
+    height: 35px;
+}
+table th, table td{
+    text-align: center;
+}
